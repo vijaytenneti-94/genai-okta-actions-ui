@@ -13,4 +13,4 @@ This is a simplified version of the full Okta IAM Terraform Starter Pack availab
 - Branding + role assignment
 - Dev → Prod migration flow
 
-👉 [Full Starter Pack on Gumroad](https://cloudinfrabuddy.gumroad.com/l/fncigq)
+👉 [Full Starter Pack on Gumroad](https://cloudinfrabuddy.gumroad.com/l/fnicgo)
